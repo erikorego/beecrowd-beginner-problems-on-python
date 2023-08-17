@@ -9,4 +9,4 @@ trapezio = ((a + b)/2) * c
 quadrado = b**2
 retangulo = a * b
 
-print(f"TRIANGULO: {triangulo: .3f}\nCIRCULO: {circulo: .3f}\nTRAPEZIO: {trapezio: .3f}\nQUADRADO: {quadrado: .3f}\nRETANGULO: {retangulo: .3f}")
+print(f"TRIANGULO:{triangulo: .3f}\nCIRCULO:{circulo: .3f}\nTRAPEZIO:{trapezio: .3f}\nQUADRADO:{quadrado: .3f}\nRETANGULO:{retangulo: .3f}")
