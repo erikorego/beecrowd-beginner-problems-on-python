@@ -11,5 +11,5 @@ valor_escolhido *= 100
 print("MOEDAS:")
 for valor in MOEDAS:
     numero_moedas = valor_escolhido // valor
-    print(f"{numero_moedas:.0f} nota(s) de R$ {(valor/100):.2f}")
+    print(f"{numero_moedas:.0f} moeda(s) de R$ {(valor/100):.2f}")
     valor_escolhido %= valor
